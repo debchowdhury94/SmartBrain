@@ -1,0 +1,12 @@
+.Tilt {
+    height: 100px;
+    width: 100px;
+    background-color: #87e9f4;
+}
+
+.Tilt-inner {
+    height: 100px;
+    width: 100px;
+    text-overflow: inherit;
+    margin: 0;
+}
